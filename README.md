@@ -4,7 +4,7 @@ XoR_Locker is a basic image encryption tool, which encrypts the image using an X
 
 This tool capabale of Encrypting and Decrypting the images. 
 
-> a feature of this tool is computing the MD5 hash value and compare the generated hash before the encryption and after the decryption to ensure an image integrity. 
+> This tool helps ensure an image integrity by computing the MD5 hash value and compare the generated hash before the encryption and after the decryption. 
 
   `Syntax :  python3 <filename> <option> <path>`
   
