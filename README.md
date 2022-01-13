@@ -6,4 +6,17 @@ This tool capabale of Encrypting and Decrypting the images. An extra feature of 
 
   `Syntax :  python3 <filename> <option> <path>`
   
+  This tool require both libraries :
+  
+  1. argparse 
+   
+  ```
+  $ pip install argparse
+  ```
+  2. hashlib 
+  
+  ```
+  $ pip install hashlib
+  ```
+  
   
